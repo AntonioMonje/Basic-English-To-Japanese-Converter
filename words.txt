@@ -1,0 +1,51 @@
+mother,okaasan
+brother,oniisan
+father,otousan
+sister,oneesan
+family,kazoku
+grandmother,obaasan
+grandfather,ojiisan
+aunt,obasan
+uncle,ojisan
+niece,mei
+nephew,oi
+cousin,itoko
+fruits,kudamono
+apple,ringo
+orange,mikan
+grapes,budo
+lemon,remon
+banana,banana
+strawberry,ichigo
+watermelon,suika
+color,iro
+red,aka
+blue,ao
+green,midori
+yellow,kiiro
+purple,murasaki
+black,kuro
+white,shiro
+brown,chairo
+car,kuruma
+automobile,jidousha
+to drive,unten suru
+drivers license,unten menkyo
+parking lot,chuuchajou
+parking free,chuusha ryoukin
+parking violation,chuusha ihan
+highway,kousoku douro
+one way traffic,ippou tsuukou
+traffic lane,shasen
+gym,taiikukan
+classroom,kyoushitsu
+nurses office,hokenshitsu
+teachers room,shokuinshitsu
+principals office,kouchoushitsu
+the office,jimushitsu
+library,toshoshitsu
+locker room,kouishitsu
+student council room,seitokaishitsu
+science room,rikashitsu
+music room,ongakushitsu
+art room,bijutsushitsu
