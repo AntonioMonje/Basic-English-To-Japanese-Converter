@@ -22,7 +22,7 @@ def main():
     keylist = translate.keys()
     running = True
 
-    #while loop to key translating a word until you dont type yes
+    #while loop to keep translating words until you dont type yes
     while running:
         flag = False
         #use a for loop to iterate through the dictionary to match the word and translate it
